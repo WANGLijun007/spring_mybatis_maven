@@ -25,7 +25,7 @@ public interface UserDao {
      */
     public User selectUserById(Integer userId);
     
-   /*用branchA更新master */
+   /*master before fix */
 	
 }
  
