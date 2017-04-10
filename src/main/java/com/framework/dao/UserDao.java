@@ -25,7 +25,7 @@ public interface UserDao {
      */
     public User selectUserById(Integer userId);
     
-    /*hello here is USERDAO class*/
+   
 	
 }
  
