@@ -25,7 +25,7 @@ public interface UserDao {
      */
     public User selectUserById(Integer userId);
     
-   /*fenzhishishenyisi */
+   /*用branchA更新master */
 	
 }
  
