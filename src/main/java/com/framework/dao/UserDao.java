@@ -23,7 +23,9 @@ public interface UserDao {
      * @param userId
      * @return User
      */
-    public User selectUserById(Integer userId); 
+    public User selectUserById(Integer userId);
+    
+    /*hello here is USERDAO class*/
 	
 }
  
