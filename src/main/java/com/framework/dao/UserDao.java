@@ -25,7 +25,7 @@ public interface UserDao {
      */
     public User selectUserById(Integer userId);
     
-   /*master before fix */
+   /*i have fixed */
 	
 }
  
